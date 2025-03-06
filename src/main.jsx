@@ -10,7 +10,7 @@ import Login  from "./login"
 import OurStory from './ourstory'
 const router = createBrowserRouter([
     {
-    path: "/",
+    path: "/career_connect/",
     element: <Home/>,
     errorElement: <File/>
     },
