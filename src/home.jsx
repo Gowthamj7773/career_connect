@@ -11,7 +11,7 @@ return(<>
                 <h1>Expand your connections</h1>
                 <h1>excel your career</h1>
                 <center>
-                <button><Link to="/login">Get started</Link></button>
+                <Link to="/career_connect/login"><button>Get started</button></Link>
                 </center>
             </div>
         </div>
