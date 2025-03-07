@@ -8,9 +8,9 @@ return(
             <div className="temp">
                 <h3>CAREER CONNECT</h3>
                 <div className="navMenu">
-                    <Link to="/">HOME</Link>
-                    <Link to="/OurStory">OUR STORY</Link>
-                    <Link to="/contactUs">CONTACT US</Link>
+                    <Link to="/career_connect/">HOME</Link>
+                    <Link to="/career_connect/OurStory">OUR STORY</Link>
+                    <Link to="/career_connect/contactUs">CONTACT US</Link>
                 </div>
             </div>
         </div>
@@ -38,12 +38,12 @@ return(
             </div>
         </div>
         <div className="storybottom">
-            <Credit name="Gowtham" position="CEO" about="Driving the company’s vision, strategy, and overall growth while ensuring innovation and long-term success" img='/people1.jpg'/>
-            <Credit name="Abcdefg" position="Managing Director" about = "Overseeing daily operations, setting business objectives, and ensuring smooth coordination across all departments for sustainable growth" img="/people2c.png"/>
-            <Credit name="Hijklmn" position="Technical Director" about ="Leading the technology team, implementing innovative solutions, and ensuring that all technical aspects align with business goals." img="/people3.jpg"/>
-            <Credit name="Opqrstu" position="Associate Vice President (Sales)" about="Developing sales strategies, expanding customer relationships, and driving revenue growth through effective market positioning."img="/people4.jpg"/>
-            <Credit name="Shyam" position="Associate Vice President (Projects)" about="Managing key projects, ensuring timely execution, and maintaining quality standards while coordinating with multiple teams." img="/people5.jpeg"/>
-            <Credit name="Ganesh" position="Cheif Finance Officer (Accounts)" about="Handling financial planning, budgeting, and ensuring the company’s financial stability through efficient resource management" img="/people6.jpg"/>
+            <Credit name="Gowtham" position="CEO" about="Driving the company’s vision, strategy, and overall growth while ensuring innovation and long-term success" img='/career_connect/people1.jpg'/>
+            <Credit name="Abcdefg" position="Managing Director" about = "Overseeing daily operations, setting business objectives, and ensuring smooth coordination across all departments for sustainable growth" img="/career_connect/people2c.png"/>
+            <Credit name="Hijklmn" position="Technical Director" about ="Leading the technology team, implementing innovative solutions, and ensuring that all technical aspects align with business goals." img="/career_connect/people3.jpg"/>
+            <Credit name="Opqrstu" position="Associate Vice President (Sales)" about="Developing sales strategies, expanding customer relationships, and driving revenue growth through effective market positioning."img="/career_connect/people4.jpg"/>
+            <Credit name="Shyam" position="Associate Vice President (Projects)" about="Managing key projects, ensuring timely execution, and maintaining quality standards while coordinating with multiple teams." img="/career_connect/people5.jpeg"/>
+            <Credit name="Ganesh" position="Cheif Finance Officer (Accounts)" about="Handling financial planning, budgeting, and ensuring the company’s financial stability through efficient resource management" img="/career_connect/people6.jpg"/>
         </div>
     </div>
 )

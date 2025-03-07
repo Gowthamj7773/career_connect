@@ -18,9 +18,9 @@ return(<>
     </div>
     <div className="homeDown" style={{textAlign:"center"}}>
     <p style={{color:"white",fontFamily:"sans-serif",display:"inline"}}>Connect with us</p>
-    <img src="/instagram.png"/>
-    <img src="/facebook.png"/>
-    <img src="/linkedin.png"/>
+    <img src="/career_connect/instagram.png"/>
+    <img src="/career_connect/facebook.png"/>
+    <img src="/career_connect/linkedin.png"/>
     </div>
     </>
 )

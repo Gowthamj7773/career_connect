@@ -15,17 +15,17 @@ const router = createBrowserRouter([
     errorElement: <File/>
     },
     {
-        path:"/contactUs",
+        path:"/career_connect/contactUs",
         element:<ContactUs/>,
         errorElement:<File/>
     },
     {
-        path:"/login",
+        path:"/career_connect/login",
         element:<Login/>,
         errorElement:<File/>
     },
     {
-      path:"/ourStory",
+      path:"/career_connect/ourStory",
       element:<OurStory/>,
       errorElement:<File/>
     }
